@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently using c
+- 🔭 I’m currently using java
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
