@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulsaber&label=Profile%20views&color=0e75b6&style=flat" alt="abdulsaber" /> </p>
 
+- 🤓 I'm a **Full Stack Developer**
+
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 💬 Ask me about **Java, Front-end**
+- 💬 Ask me about **Java, Web Applications, DSA**
 
 - 📫 How to reach me **abdulsaber.as@gmail.com**
 
