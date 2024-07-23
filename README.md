@@ -17,21 +17,25 @@
 <h3 align="left">⚡ Skills</h3>
 
 <h5 align="left">💻 Languages</h5>
+
 - Java: Crafting scalable and efficient solutions
 - C# (.NET): Building robust and maintainable applications
 - JavaScript: Creating dynamic and interactive web experiences
   
 <h5 align="left">🌐 Frameworks & Libraries</h5>
+
 - React Native: Developing seamless mobile experiences
 - Spring Boot: Designing enterprise-level backend services
 
 <h5 align="left">☁️ Cloud & DevOps</h5>
+
 - AWS (Amazon Web Services): Deploying and scaling applications in the cloud
 - Azure: Leveraging cloud services for modern solutions
 - Jenkins: Automating CI/CD pipelines
 - Azure DevOps: Streamlining development workflows
   
 <h5 align="left">🗄️ Databases</h5>
+
 - MySQL: Managing relational data with ease
 - PostgreSQL: Ensuring data integrity and performance
 - MongoDB: Handling flexible and scalable NoSQL data
