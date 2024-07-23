@@ -5,13 +5,34 @@
 
 
 
-- 👯 I’m looking to collaborate on **open source**
+About Me
 
-- 💬 Ask me about **Java, Web Applications, DSA**
+- 🚀 Current Quest: Exploring the frontiers of Artificial Intelligence and Machine Learning
+- 💼 Toolbelt: Java, .NET, React Native, Docker, AWS, Azure
+- 🛠️ Recently worked on: Fitness Application, Healthcare System
+- 📖 Always Learning: Deep Learning, Advanced JavaScript, Kubernetes
+- 🗨️ Let's Chat About: Java, .NET, AWS, Azure, React Native, Docker, Kafka
+- 📩 Contact Me: abdulsaber.as@gmail.com
 
-- 📫 How to reach me **abdulsaber.as@gmail.com**
+  
+  **⚡ Skills**
 
-- ⚡ Fun fact **The strongest muscle in the body is the tongue.**
+💻 Languages
+Java: Crafting scalable and efficient solutions
+C# (.NET): Building robust and maintainable applications
+JavaScript: Creating dynamic and interactive web experiences
+🌐 Frameworks & Libraries
+React Native: Developing seamless mobile experiences
+Spring Boot: Designing enterprise-level backend services
+☁️ Cloud & DevOps
+AWS (Amazon Web Services): Deploying and scaling applications in the cloud
+Azure: Leveraging cloud services for modern solutions
+Jenkins: Automating CI/CD pipelines
+Azure DevOps: Streamlining development workflows
+🗄️ Databases
+MySQL: Managing relational data with ease
+PostgreSQL: Ensuring data integrity and performance
+MongoDB: Handling flexible and scalable NoSQL data
 
 
 
