@@ -15,24 +15,27 @@ About Me
 - 📩 Contact Me: abdulsaber.as@gmail.com
 
   
-  **⚡ Skills**
+⚡ Skills
 
 💻 Languages
-Java: Crafting scalable and efficient solutions
-C# (.NET): Building robust and maintainable applications
-JavaScript: Creating dynamic and interactive web experiences
+- Java: Crafting scalable and efficient solutions
+- C# (.NET): Building robust and maintainable applications
+- JavaScript: Creating dynamic and interactive web experiences
+  
 🌐 Frameworks & Libraries
-React Native: Developing seamless mobile experiences
-Spring Boot: Designing enterprise-level backend services
+- React Native: Developing seamless mobile experiences
+- Spring Boot: Designing enterprise-level backend services
+- 
 ☁️ Cloud & DevOps
-AWS (Amazon Web Services): Deploying and scaling applications in the cloud
-Azure: Leveraging cloud services for modern solutions
-Jenkins: Automating CI/CD pipelines
-Azure DevOps: Streamlining development workflows
+- AWS (Amazon Web Services): Deploying and scaling applications in the cloud
+- Azure: Leveraging cloud services for modern solutions
+- Jenkins: Automating CI/CD pipelines
+- Azure DevOps: Streamlining development workflows
+  
 🗄️ Databases
-MySQL: Managing relational data with ease
-PostgreSQL: Ensuring data integrity and performance
-MongoDB: Handling flexible and scalable NoSQL data
+- MySQL: Managing relational data with ease
+- PostgreSQL: Ensuring data integrity and performance
+- MongoDB: Handling flexible and scalable NoSQL data
 
 
 
